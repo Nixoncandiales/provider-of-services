@@ -27,6 +27,7 @@ global ENDYEAR = 2017
 * different directory structure
 
 * base directory where POS data stored
+cd "/Users/nix/Documents/GitHub/provider-of-services"
 global POSBASE = "source/"
 
 * make the output folder if it doesn't exist
